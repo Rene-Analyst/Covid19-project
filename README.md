@@ -26,12 +26,15 @@ Visualization: Generate statistical summaries and visualizations using SQL to pr
 Technologies Used:
 
 SQL
+
 Database Management System (DBMS)  used MYSQL
+
 Tableau 
 
 
 Future Improvements:
 
 Incorporate additional datasets for a more comprehensive analysis
+
 Enhance visualizations for better data representation.
 
